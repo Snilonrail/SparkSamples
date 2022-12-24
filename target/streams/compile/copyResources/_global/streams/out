@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/aboiko/Documents/apple/repos/spark-scala3-example/src/main/resources/cities.conf,/Users/aboiko/Documents/apple/repos/spark-scala3-example/target/scala-2.13/classes/cities.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/aboiko/Documents/apple/repos/spark-scala3-example/src/main/resources/application.conf,/Users/aboiko/Documents/apple/repos/spark-scala3-example/target/scala-2.13/classes/application.conf)[0m

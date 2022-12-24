@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/aboiko/Documents/apple/repos/spark-scala3-example/src/main/scala/Datagen.scala:125:47: non-variable type argument List[String] in type pattern List[List[String]] (the underlying of List[List[String]]) is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m      .flatMap { case (s: String, l: Long, a: List[List[String]]) =>[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.3); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
